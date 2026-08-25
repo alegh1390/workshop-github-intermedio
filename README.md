@@ -1,5 +1,7 @@
 # ⚙️ Workshop: GitHub Intermedio
 
+Hola
+
 ## Pipelines, Políticas y Productividad con .NET 9
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Workflows-2088FF?logo=githubactions&logoColor=white)
